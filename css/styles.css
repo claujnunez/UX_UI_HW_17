@@ -3,7 +3,8 @@ html {
 }
 
 body{
-    background-image: url("/Images/claujnunez_hero_backgroundimg.png");
+    background-image: url("../Images/claujnunez_hero_backgroundimg.png");
+    background-color: #cccccc;
     margin: 0;
     padding: 0;
     font-size: 15px;
